@@ -1,0 +1,21 @@
+[package]
+name = "turmfalke"
+version = "1.0.0"
+edition = "2021"
+description = "Turmfalke - eine selbstgeschriebene UCI-Schach-Engine"
+license = "GPL-3.0-or-later"
+repository = "https://github.com/Crime77/turmfalke"
+
+[dependencies]
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+panic = "abort"
+debug = false
+
+[profile.test]
+opt-level = 3
+debug-assertions = true
+overflow-checks = true

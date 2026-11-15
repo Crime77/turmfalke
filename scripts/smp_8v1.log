@@ -1,0 +1,39 @@
+Match: A=turmfalke.exe [Threads=8,Hash=128]  vs  B=turmfalke.exe [Threads=1,Hash=128]
+30 Partien, TC 10000+100 ms, 1 parallel, 42 Eroeffnungen
+
+Partie   1/30 (#1, Eroeffnung 1): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  ungenuegendes Material, 103 Zuege  | A: +0 =1 -0
+Partie   2/30 (#2, Eroeffnung 1): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 64 Zuege  | A: +1 =1 -0
+Partie   3/30 (#3, Eroeffnung 2): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  dreifache Wiederholung, 52 Zuege  | A: +1 =2 -0
+Partie   4/30 (#4, Eroeffnung 2): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  1/2-1/2  dreifache Wiederholung, 74 Zuege  | A: +1 =3 -0
+Partie   5/30 (#5, Eroeffnung 3): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1-0  Matt, 92 Zuege  | A: +2 =3 -0
+Partie   6/30 (#6, Eroeffnung 3): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 82 Zuege  | A: +3 =3 -0
+Partie   7/30 (#7, Eroeffnung 4): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  ungenuegendes Material, 94 Zuege  | A: +3 =4 -0
+Partie   8/30 (#8, Eroeffnung 4): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 64 Zuege  | A: +4 =4 -0
+Partie   9/30 (#9, Eroeffnung 5): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1-0  Matt, 66 Zuege  | A: +5 =4 -0
+Partie  10/30 (#10, Eroeffnung 5): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  1/2-1/2  dreifache Wiederholung, 68 Zuege  | A: +5 =5 -0
+Partie  11/30 (#11, Eroeffnung 6): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  dreifache Wiederholung, 71 Zuege  | A: +5 =6 -0
+Partie  12/30 (#12, Eroeffnung 6): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 72 Zuege  | A: +6 =6 -0
+Partie  13/30 (#13, Eroeffnung 7): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  dreifache Wiederholung, 57 Zuege  | A: +6 =7 -0
+Partie  14/30 (#14, Eroeffnung 7): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  1/2-1/2  dreifache Wiederholung, 72 Zuege  | A: +6 =8 -0
+Partie  15/30 (#15, Eroeffnung 8): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  dreifache Wiederholung, 16 Zuege  | A: +6 =9 -0
+Partie  16/30 (#16, Eroeffnung 8): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  1/2-1/2  dreifache Wiederholung, 51 Zuege  | A: +6 =10 -0
+Partie  17/30 (#17, Eroeffnung 9): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  dreifache Wiederholung, 50 Zuege  | A: +6 =11 -0
+Partie  18/30 (#18, Eroeffnung 9): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 60 Zuege  | A: +7 =11 -0
+Partie  19/30 (#19, Eroeffnung 10): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  dreifache Wiederholung, 47 Zuege  | A: +7 =12 -0
+Partie  20/30 (#20, Eroeffnung 10): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  1/2-1/2  dreifache Wiederholung, 36 Zuege  | A: +7 =13 -0
+Partie  21/30 (#21, Eroeffnung 11): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  dreifache Wiederholung, 81 Zuege  | A: +7 =14 -0
+Partie  22/30 (#22, Eroeffnung 11): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 75 Zuege  | A: +8 =14 -0
+Partie  23/30 (#23, Eroeffnung 12): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  ungenuegendes Material, 62 Zuege  | A: +8 =15 -0
+Partie  24/30 (#24, Eroeffnung 12): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 79 Zuege  | A: +9 =15 -0
+Partie  25/30 (#25, Eroeffnung 13): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1-0  Matt, 92 Zuege  | A: +10 =15 -0
+Partie  26/30 (#26, Eroeffnung 13): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 66 Zuege  | A: +11 =15 -0
+Partie  27/30 (#27, Eroeffnung 14): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1-0  Matt, 94 Zuege  | A: +12 =15 -0
+Partie  28/30 (#28, Eroeffnung 14): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 72 Zuege  | A: +13 =15 -0
+Partie  29/30 (#29, Eroeffnung 15): Turmfalke 1.0 (A) - Turmfalke 1.0 (B)  1/2-1/2  dreifache Wiederholung, 28 Zuege  | A: +13 =16 -0
+Partie  30/30 (#30, Eroeffnung 15): Turmfalke 1.0 (B) - Turmfalke 1.0 (A)  0-1  Matt, 67 Zuege  | A: +14 =16 -0
+
+=== Ergebnis nach 30 Partien (912 s) ===
+Aus Sicht von A (Turmfalke 1.0 (A)): +14 =16 -0
+Score: 73.3 %   Elo-Differenz: +175.7 +/- 81.7 (95 %)   LOS: 100.0 %   Remisquote: 53.3 %
+Fehler: keine (kein Zeitverlust, kein illegaler Zug, kein Absturz, keine Haenger)
+PGN: smp_8v1.pgn (30 Partien)
